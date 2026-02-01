@@ -4,7 +4,7 @@ import { parseM3U } from './services/m3uParser';
 import VideoPlayer from './components/VideoPlayer';
 import { Channel } from './types';
 
-const M3U_URL = 'https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u';
+const M3U_URL = 'https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u';
 const TITLES = ["Global News", "T20 Cricket", "Super Hit Movie", "Morning Yoga", "Comedy Show", "Wildlife", "Tech Talk", "Doraemon", "Shin-chan", "Marvel HQ", "Nat Geo Wild"];
 const SYNC_INTERVAL = 30 * 60 * 1000;
 
